@@ -33,5 +33,5 @@ Commands
 ## :scroll: License
 MIT License
 
-Original copyright (c) 2018 Siddharth Dushantha
+Original copyright (c) 2018 Siddharth Dushantha  
 Copyright (c) 2018 Dylan Slogrove
