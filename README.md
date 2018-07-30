@@ -1,6 +1,7 @@
 # dark-mode
 
 > Control the macOS dark mode from the terminal
+> A sh port of <a href="https://github.com/sdushantha/dark-mode">this python script</a> by <a href="https://github.com/sdushantha">this guy</a>. All credit goes to him.
 
 *Requires macOS 10.10 or later. Tested on macOS 10.13*
 
@@ -13,12 +14,12 @@
 
 ```bash
 # clone the repo
-$ git clone https://github.com/sdushantha/dark-mode.git
+$ git clone https://github.com/Hirza-Tango/dark-mode.git
 ```
 
 ## :hammer: Usage
 ```bash
-Usage: python3 dark-mode.py [command]
+Usage: sh dark-mode.sh [command]
 
 Commands
   <none>  Toggle dark mode
@@ -26,8 +27,11 @@ Commands
   off     Disable dark mode
   status  Dark mode status
 ```
+## :speaker: Attribution
+<a href="https://github.com/sdushantha/dark-mode">Original python 3 script</a> by <a href="github.com/sdushantha">Siddarth Dushanta</a>
 
 ## :scroll: License
 MIT License
 
-Copyright (c) 2018 Siddharth Dushantha
+Original copyright (c) 2018 Siddharth Dushantha
+Copyright (c) 2018 Dylan Slogrove
