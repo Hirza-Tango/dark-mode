@@ -28,7 +28,7 @@ Commands
 ```
 
 ## :speaker: Other versions
-Swift:    https://github.com/sindresorhus/dark-mode
+Swift:    https://github.com/sindresorhus/dark-mode  
 Python 3: https://github.com/sdushantha/dark-mode
 
 ## :scroll: License
