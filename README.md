@@ -5,8 +5,7 @@
 *Requires macOS 10.10 or later.*
 
 <p align="center">
-<img src=https://raw.githubusercontent.com/Hirza-Tango/dark-mode/blob/master/preview.gif>
-</a>
+<img src="https://i.giphy.com/5UH6rHeHCzvV3uLThO.gif">
 </p>
 
 ## :floppy_disk: Installation
