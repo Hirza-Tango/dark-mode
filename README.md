@@ -5,7 +5,7 @@
 *Requires macOS 10.10 or later.*
 
 <p align="center">
-<img src=https://raw.githubusercontent.com/Hirza-Tango/dark-mode/master/preview.gif>
+<img src=https://raw.githubusercontent.com/Hirza-Tango/dark-mode/blob/master/preview.gif>
 </a>
 </p>
 
