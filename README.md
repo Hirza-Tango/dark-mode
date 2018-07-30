@@ -28,7 +28,7 @@ Commands
   status  Dark mode status
 ```
 ## :speaker: Attribution
-<a href="https://github.com/sdushantha/dark-mode">Original python 3 script</a> by <a href="github.com/sdushantha">Siddarth Dushanta</a>
+<a href="https://github.com/sdushantha/dark-mode">Original python 3 script</a> by <a href="https://github.com/sdushantha">Siddarth Dushanta</a>
 
 ## :scroll: License
 MIT License
